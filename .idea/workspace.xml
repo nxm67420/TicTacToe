@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81b8f606-b731-439d-b78f-fb043da6e3c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23M9gFn9EkEIZDVECw00w4mDS8S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TicTacToe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81b8f606-b731-439d-b78f-fb043da6e3c8" name="Default Changelist" comment="" />
+      <created>1641533197274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641533197274</updated>
+      <workItem from="1641533201508" duration="355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1641533359770">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="533" y="136" key="#com.intellij.ide.util.MemberChooser/0.23.1440.800@0.23.1440.800" timestamp="1641533359770" />
+    <state x="523" y="325" key="Github.CreateGistDialog" timestamp="1641533549784">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="523" y="325" key="Github.CreateGistDialog/0.23.1440.800@0.23.1440.800" timestamp="1641533549784" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1641533508378">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1641533508378" />
+  </component>
+</project>
